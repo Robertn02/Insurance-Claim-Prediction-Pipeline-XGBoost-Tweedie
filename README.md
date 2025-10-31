@@ -57,7 +57,7 @@ Based on the DSO 530 Group Project specification, the goals are:
 
 - **Language:** Python (3.x)
 - **Libraries:**  
-  `Pandas`, `NumPy`, `Scikit-Learn`, `XGBoost`, `Matplotlib`
+
 
 
 
