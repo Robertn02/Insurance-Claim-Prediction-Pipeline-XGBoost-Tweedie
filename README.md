@@ -55,8 +55,6 @@ Based on the DSO 530 Group Project specification, the goals are:
 
 ## Tech Stack
 
-- **Language:** Python (3.x)
-
 
 
 
