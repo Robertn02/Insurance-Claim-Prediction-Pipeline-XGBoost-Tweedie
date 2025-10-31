@@ -51,10 +51,6 @@ Based on the DSO 530 Group Project specification, the goals are:
 - **Feature Importance:** Matplotlib visualizations for top predictive factors.
 - **Deployment-Ready Submission:** Automated test preprocessing and CSV export.
 
----
-
-## Tech Stack
-
 
 
 
